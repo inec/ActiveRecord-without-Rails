@@ -2,6 +2,8 @@
 
 Some simple ruby script that make use of ActiveRecord CRUD tasks outside of Rails.
 
+This is my repo now. This repo belongs to Lu,Y-Chi .
+
 ## Files and Folders
 
 Explanation of the file/folder structure to come.
